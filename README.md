@@ -4,7 +4,6 @@ This Machine Learning project is the implementation of real-time facial expressi
 
 
 # INSTALLATION
-Recommended to check requirements and proceed further
 
 To install dependencies simply run
 ```
