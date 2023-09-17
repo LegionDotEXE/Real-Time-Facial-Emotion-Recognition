@@ -25,6 +25,8 @@ jupyter notebook
 
 # DATASET
 The facial expression dataset used in this project is sourced from Kaggle. It contains labeled facial images for various emotions, such as happiness, sadness, anger, etc. 
+
+
 Dataset: kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset
 
 To use your custom dataset, update the data loading and preprocessing steps in the Jupyter Notebook accordingly.
