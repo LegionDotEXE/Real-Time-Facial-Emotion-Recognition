@@ -13,7 +13,6 @@ in an environment of your choosing.
 Open Jupyter Notebook by using the following command:
 ```
 jupyter notebook
-
 ```
 2. Look up for "trainmodels.ipynb" notebook and open it.
 3. Follow the step-by-step instructions
