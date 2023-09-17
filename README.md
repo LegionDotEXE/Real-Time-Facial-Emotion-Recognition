@@ -1,8 +1,10 @@
 # Real-Time-Facial-Emotion-Recognition
 
-This Machine Learning project is the implementation of real-time facial expression/emotion recognition using machine learning. The model is trained on a pre-existing facial expression dataset from KAGGLE and utilizes Tensorflow and Keras. The model also utilizes the pre-loaded scripts that have 62% accuracy.
+This Machine Learning project is the implementation of real-time facial expression/emotion recognition using machine learning. The model is trained on a pre-existing facial expression dataset from KAGGLE and utilizes Tensorflow, Keras, OpenCV, and Scilet. The model also utilizes the pre-loaded scripts that have 62% accuracy.
+
 
 # INSTALLATION
+Recommended to check requirements and proceed further
 To install dependencies simply run
 ```
 pip install -r requirements.txt
