@@ -32,10 +32,12 @@ Dataset: kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset
 To use your custom dataset, update the data loading and preprocessing steps in the Jupyter Notebook accordingly.
 
 # MODEL
-The machine learning model is built using TensorFlow and Keras. It consists of a  convolutional neural network (CNN) architecture optimized for facial emotion recognition. At this moment, the model has been optimized for 62% accuracy only. However, accuracy and precision will improve in later updates.
+The machine learning model is built using TensorFlow and Keras. It consists of a  convolutional neural network (CNN) architecture optimized for facial emotion recognition. 
+
+At this moment, the model has been optimized for 62% accuracy only. However, accuracy and precision will be improved in later updates.
 
 # CONTRIBUTION
-Contributions or Collab are always welcome. For any questions, suggestions, or collaborations, please feel free to open an issue or create a pull request.
+Contributions or Collaborations are always welcome. For any questions, suggestions, or collaborations, please feel free to open an issue or create a pull request.
 
 # LICENSE
 Licensed under MIT License  - GitHub 2023-2024
